@@ -1,1 +1,1 @@
-# AI-Video-Analysis-Platform
+# Online interview assessment Platform
